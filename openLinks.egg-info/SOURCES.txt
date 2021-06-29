@@ -1,0 +1,7 @@
+README.md
+setup.py
+openLinks.egg-info/PKG-INFO
+openLinks.egg-info/SOURCES.txt
+openLinks.egg-info/dependency_links.txt
+openLinks.egg-info/entry_points.txt
+openLinks.egg-info/top_level.txt
